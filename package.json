@@ -1,0 +1,22 @@
+{
+  "name": "cs-focus1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisLopatko/cs-focus1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrisLopatko/cs-focus1/issues"
+  },
+  "homepage": "https://github.com/KrisLopatko/cs-focus1#readme",
+  "devDependencies": {
+    "@playwright/test": "~1.53.2",
+    "@types/node": "~24.0.10"
+  }
+}
