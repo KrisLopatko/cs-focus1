@@ -4,4 +4,10 @@ This repository contains a simple test for a board game retailer page that confi
 
 # instructions
 
-To run the test:
+To run the test, use the following command:
+
+`npx playwright test`
+
+To view the report, use the following command:
+
+`npx playwright show-report`
